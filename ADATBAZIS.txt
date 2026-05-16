@@ -10,4 +10,4 @@ Idegen kulcs (Foreign Key - FK): Ez egy hivatkozás egy másik tábla elsődlege
 
 CASCADE
 
-IMORT EXPORT IT
+IMPORT EXPORT IT
