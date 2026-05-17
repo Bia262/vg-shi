@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "celloveszetWPF/1.0.0": {
+        "dependencies": {
+          "Cellovesz": "1.0.0"
+        },
+        "runtime": {
+          "celloveszetWPF.dll": {}
+        }
+      },
+      "Cellovesz/1.0.0": {
+        "runtime": {
+          "Cellovesz.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "celloveszetWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cellovesz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\bin\Debug\net8.0\Cellovesz.exe
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\bin\Debug\net8.0\lovesek.csv
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\bin\Debug\net8.0\Cellovesz.deps.json
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\bin\Debug\net8.0\Cellovesz.runtimeconfig.json
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\bin\Debug\net8.0\Cellovesz.dll
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\bin\Debug\net8.0\Cellovesz.pdb
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\obj\Debug\net8.0\Cellovesz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\obj\Debug\net8.0\Cellovesz.AssemblyInfoInputs.cache
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\obj\Debug\net8.0\Cellovesz.AssemblyInfo.cs
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\obj\Debug\net8.0\Cellovesz.csproj.CoreCompileInputs.cache
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\obj\Debug\net8.0\Cellovesz.dll
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\obj\Debug\net8.0\refint\Cellovesz.dll
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\obj\Debug\net8.0\Cellovesz.pdb
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\obj\Debug\net8.0\Cellovesz.genruntimeconfig.cache
+C:\Users\Szalonna József\source\repos\Cellovesz\Cellovesz\obj\Debug\net8.0\ref\Cellovesz.dll
