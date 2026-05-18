@@ -1,4 +1,6 @@
-adatb kesz , download all 4 w right versions, nuget. 1.masol under. maybe del passw if not workin, program cs-bemasol3. components-new controller API empty: 
+adatb kesz , download all 4 w right versions, nuget. 
+1.masol under. maybe del passw if not workin,
+program cs-bemasol3. components-new controller API empty: 
 
     [Route("api/[controller]")]
     [ApiController]
