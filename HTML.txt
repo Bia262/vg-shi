@@ -1,34 +1,48 @@
 <link rel="stylesheet" href="style.css">
 
-<ul> (Unordered List): Sorszámozatlan, "pöttyös" lista.
+<ul> (Unordered List): Sorszámozatlan, 
+"pöttyös" lista.
 
-<ol> (Ordered List): Sorszámozott lista (1., 2., 3. stb.).
+<ol> (Ordered List): 
+Sorszámozott lista (1., 2., 3. stb.).
 
-<li> (List Item): Maga a lista eleme. Ezt a <ul> vagy <ol> közé kell tenni
+<li> (List Item): 
+Maga a lista eleme.
+Ezt a <ul> vagy <ol> közé kell tenni
 
 <table>: Ezzel nyitod meg és zárod be az egész táblázatot.
 
-<tr> (Table Row): Egy sor a táblázatban. Minden új sort ezzel kell kezdeni.
+<tr> (Table Row): Egy sor a táblázatban.
+Minden új sort ezzel kell kezdeni.
 
-<th> (Table Head): Fejléc cella. Ugyanolyan, mint egy sima cella, de a böngésző automatikusan vastagítja és középre igazítja a benne lévő szöveget (pl. "Név", "Kor").
+<th> (Table Head): Fejléc cella.
+Ugyanolyan, mint egy sima cella, de a böngésző automatikusan vastagítja
+és középre igazítja a benne lévő szöveget (pl. "Név", "Kor").
 
-<td> (Table Data): Sima adatcella. Ebbe kerülnek a tényleges adatok.
+<td> (Table Data): Sima adatcella. 
+Ebbe kerülnek a tényleges adatok.
 
-Címsorok: <h1>-től <h6>-ig. Az <h1> a legnagyobb, legfontosabb cím, a <h6> a legkisebb.
+Címsorok: <h1>-től <h6>-ig. Az <h1> a legnagyobb, 
+legfontosabb cím, a <h6> a legkisebb.
 
-Linkek (<a>): Erre is gyakran kell javítani vagy betenni újat.
+Linkek (<a>): Erre is gyakran kell javítani
+vagy betenni újat.
 
 Így néz ki: <a href="https://www.google.com">Kattints ide</a>
 
-A href attribútum mondja meg, hova vigyen a link.
+A href attribútum mondja meg, 
+hova vigyen a link.
 
 Képek (<img>): Ennek nincs záró tagje!
 
 Így néz ki: <img src="kep_neve.jpg" alt="Kép leírása">
 
-A src a kép elérési útja, az alt pedig az a szöveg, ami akkor jelenik meg, ha a kép nem tud betölteni (vagy amit a felolvasó programok használnak).
+A src a kép elérési útja, az alt pedig az a szöveg,
+ami akkor jelenik meg, ha a kép nem tud betölteni 
+(vagy amit a felolvasó programok használnak).
 
-HTML tag (Címke) alapján: Minden megadott címkét formáz az oldalon.
+HTML tag (Címke) alapján: 
+Minden megadott címkét formáz az oldalon.
 
 CSS
 /* Minden <p> (bekezdés) kék lesz */
@@ -36,7 +50,11 @@ p {
     color: blue;
 }
 
-Class (Osztály) alapján - A leggyakoribb! Ezt akkor használjuk, ha csak bizonyos elemeket akarunk formázni. A HTML-ben <div class="doboz"> formában adjuk meg. A CSS-ben egy ponttal (.) hivatkozunk rá.
+Class (Osztály) alapján - 
+A leggyakoribb! Ezt akkor használjuk,
+ha csak bizonyos elemeket akarunk formázni. 
+A HTML-ben <div class="doboz"> formában adjuk meg. 
+A CSS-ben egy ponttal (.) hivatkozunk rá.
 
 CSS
 /* Minden elem, aminek class="doboz" attribútuma van, zöld hátteret kap */
@@ -52,21 +70,28 @@ CSS
     text-align: center;
 }
 
-padding (Belső margó): A tartalom (pl. szöveg) és a keret közötti távolság. Ettől a dobozod "kövérebb" lesz.
+padding (Belső margó): A tartalom 
+(pl. szöveg) és a keret közötti távolság. 
+Ettől a dobozod "kövérebb" lesz.
 
-border (Keret): Maga a doboz vonala (lehet folytonos, szaggatott, stb.).
+border (Keret): Maga a doboz vonala 
+(lehet folytonos, szaggatott, stb.).
 
-margin (Külső margó): A dobozod és a többi, mellette/alatta lévő doboz (elem) közötti távolság. Ezzel tudod odébb tolni az elemeket.
+margin (Külső margó): A dobozod és a többi, 
+mellette/alatta lévő doboz (elem) közötti távolság. 
+Ezzel tudod odébb tolni az elemeket.
 
 color: red; (A szöveg színe lesz piros)
 
-background-color: #f4f4f4; (A háttérszín megadása, lehet névvel, vagy ún. HEX kóddal, ami egy # és 6 karakter)
+background-color: #f4f4f4; (A háttérszín megadása, lehet névvel,
+vagy ún. HEX kóddal, ami egy # és 6 karakter)
 
 font-size: 18px; (Betűméret)
 
 font-weight: bold; (Félkövér betű)
 
-text-align: center; (Középre igazítja a szöveget. Lehet left vagy right is).
+text-align: center; (Középre igazítja a szöveget.
+Lehet left vagy right is).
 
 width: 100%; vagy width: 300px; (Szélesség)
 
